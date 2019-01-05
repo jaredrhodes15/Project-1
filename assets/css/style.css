@@ -79,7 +79,7 @@ textarea.parsley-error {
        * element that contains the map. */
        #map {
         height: 450px;
-        width: 25%;
+        width: 29%;
         position: sticky;
         overflow: hidden;
         float: right;
